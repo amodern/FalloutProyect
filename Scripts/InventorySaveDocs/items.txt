@@ -1,0 +1,68 @@
+Weapon
+1
+DeathStroke
+Common
+Sniper designed to be the perfect tool to get the job done
+2000
+5
+3
+190
+Sniper
+0.2
+12
+#
+Armor
+1
+DragonBorn
+Common
+The chest pice once wore by the dragon lord
+2000
+8
+2
+270
+Chest
+#
+Ammo
+1
+Sniper Rounds
+Common
+Bullets for a specific weapon type
+2
+0.1
+0
+0
+Sniper
+#
+Ammo
+1
+Rifle Rounds
+Common
+Assault rounds for automatic rifles
+2
+0.1
+0
+0
+Rifle
+#
+Ammo
+1
+Shotgun Shells
+Common
+10 pellet shotgun shells
+2
+0.1
+0
+0
+Shotgun
+#
+Ammo
+1
+Bazooka Rockets
+Common
+Explosive rockets to deal seroius ammounts of damage
+2
+0.1
+0
+0
+Bazooka
+#
