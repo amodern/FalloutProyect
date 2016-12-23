@@ -20,6 +20,7 @@ public class LootBagDropControler : MonoBehaviour {
     }
 
     int slotHeigth = 22;
+	
     bool haveItemsChanged = false;
 	// Use this for initialization
 	void Start () {
